@@ -1,5 +1,33 @@
-# OOP
+# Team Profile Generator
 
-Hello Team I will create an readme at a later date. I just recovered this file from my old HDD which failed. 
+## Description
+A command line application that takes information from members and employees of a software engineering team and generates an HTML webpage.
 
-I have been going through a tough time recently my computer broke and both my Uncle and Aunt passed away within a week of each other from a long battle with cancer and parkinsons. I understand that alot of the stuff here might not be here or missing but i have recovered it to a certain extent please forgive me and grade me temporarily for this
+##
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Licence](#Licence)
+- [Contributors](#Contributors)
+- [Test](#Test)
+- [Repository Link](#Repository)
+- [GitHub Info](#GitHub) 
+
+## Installation
+install npm init and npm install
+
+## Usage
+Node
+## Licence
+
+## Contributors
+Johnny Wu
+
+## Test
+Deployed link will be on soon
+
+## Repository
+https://github.com/WuJoh/teamprofilegenerator
+
+## Project Repo
+https://github.com/WuJoh/teamprofilegenerator
