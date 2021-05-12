@@ -24,7 +24,7 @@ Node
 Johnny Wu
 
 ## Test
-Deployed link will be on soon
+https://wujoh.github.io/teamprofilegenerator/
 
 ## Repository
 https://github.com/WuJoh/teamprofilegenerator
